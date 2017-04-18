@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "Anton Mudrak",
+    "file": "RFE Countries",
+    "link": "rfecorplisttest"
+  },
+  "text": {
+    "title": "RFE Countries Map",
+    "more": "",
+    "intro": ""
+  },
+  "legend": {
+    "edgeLabel": "Connection to RFE, thickness - numbers of mentions",
+    "colorLabel": "From light blue to the dark blue/from 1 to 2000",
+    "nodeLabel": "Countries, Size \u003d according to the number of mentions"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "imageAttribute": "Label",
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.2,
+      "maxNodeSize": 7,
+      "maxEdgeSize": 0.5,
+      "minNodeSize": 1
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}
