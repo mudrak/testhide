@@ -1,0 +1,122 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @mudrak
+ Sign out
+ Watch 1
+  Star 0
+  Fork 0 JoshBone/sigmajs-hidenodes
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
+Branch: master Find file Copy pathsigmajs-hidenodes/data/data.json
+dded8c4  14 days ago
+@JoshBone JoshBone First commit for testing.
+1 contributor
+RawBlameHistory     
+103 lines (102 sloc)  1.62 KB
+{"nodes":
+  [{
+    "id":"c1",
+    "label":"Country1",
+    "size":"5",
+    "type":"countries",
+    "color":"#4286f4"
+  },{
+    "id":"c2",
+    "label":"Country2",
+    "size":"8",
+    "type":"countries",
+    "color":"#4286f4"
+  },{
+    "id":"c3",
+    "label":"Country3",
+    "size":"12",
+    "type":"countries",
+    "color":"#4286f4"
+  },{
+    "id":"c4",
+    "label":"Country4",
+    "size":"15",
+    "type":"countries",
+    "color":"#4286f4"
+  },{
+    "id":"n1",
+    "label":"Name1",
+    "size":"8",
+    "type":"names",
+    "color":"#ef0909"
+  },{
+    "id":"n2",
+    "label":"Name2",
+    "size":"17",
+    "type":"names",
+    "color":"#ef0909"
+  },{
+    "id":"n3",
+    "label":"Name3",
+    "size":"8",
+    "type":"names",
+    "color":"#ef0909"
+  },{
+    "id":"n4",
+    "label":"Name4",
+    "size":"19",
+    "type":"names",
+    "color":"#ef0909"
+  }],
+  "edges":[{
+    "id":"1",
+    "source":"c2",
+    "target":"c1",
+    "color":"#4286f4"
+  },{
+    "id":"2",
+    "source":"c2",
+    "target":"c3",
+    "color":"#4286f4"
+  },{
+    "id":"3",
+    "source":"c2",
+    "target":"c4",
+    "color":"#4286f4"
+  },{
+    "id":"4",
+    "source":"c2",
+    "target":"n2",
+    "color":"#ef0909"
+  },{
+    "id":"5",
+    "source":"c2",
+    "target":"n3",
+    "color":"#ef0909"
+  },{
+    "id":"6",
+    "source":"c1",
+    "target":"n4",
+    "color":"#ef0909"
+  },{
+    "id":"7",
+    "source":"c3",
+    "target":"n3",
+    "color":"#ef0909"
+  },{
+    "id":"8",
+    "source":"c4",
+    "target":"n1",
+    "color":"#ef0909"
+  },{
+    "id":"9",
+    "source":"c1",
+    "target":"n1",
+    "color":"#ef0909"
+  },{
+    "id":"10",
+    "source":"c3",
+    "target":"n4",
+    "color":"#ef0909"
+  }]
+}
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
