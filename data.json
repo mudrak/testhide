@@ -1,52 +1,70 @@
 {"nodes":
   [{
-    "id":"c1",
-    "label":"Country1",
-    "size":"5",
-    "type":"countries",
-    "color":"#4286f4"
-  },{
-    "id":"c2",
-    "label":"Country2",
-    "size":"8",
-    "type":"countries",
-    "color":"#4286f4"
-  },{
-    "id":"c3",
-    "label":"Country3",
-    "size":"12",
-    "type":"countries",
-    "color":"#4286f4"
-  },{
-    "id":"c4",
-    "label":"Country4",
-    "size":"15",
-    "type":"countries",
-    "color":"#4286f4"
-  },{
-    "id":"n1",
-    "label":"Name1",
-    "size":"8",
+    "id":"160",
+    "label":"Nowak-Jezioranski, Jan",
+    "size":"323",
     "type":"names",
-    "color":"#ef0909"
+    "color":"#ff0000"
   },{
-    "id":"n2",
-    "label":"Name2",
-    "size":"17",
+    "id":"161",
+    "label":"Khruschev, Nikita",
+    "size":"296",
     "type":"names",
-    "color":"#ef0909"
+    "color":"#ff0000"
   },{
-    "id":"n3",
-    "label":"Name3",
-    "size":"8",
+    "id":"162",
+    "label":"Gomulka, Wladyslaw",
+    "size":"267",
     "type":"names",
-    "color":"#ef0909"
+    "color":"#ff0000"
   },{
-    "id":"n4",
-    "label":"Name4",
-    "size":"19",
+    "id":"163",
+    "label":"Kennedy, John Fitzgerald",
+    "size":"241",
     "type":"names",
-    "color":"#ef0909"
+    "color":"#ff0000"
+  },{
+    "id":"164",
+    "label":"Richardson, John",
+    "size":"238",
+    "type":"names",
+    "color":"#ff0000"
+  },{
+    "id":"165",
+    "label":"Husak, Gustav",
+    "size":"225",
+    "type":"names",
+    "color":"#ff0000"
+  },{
+    "id":"166",
+    "label":"Wagner, Karol",
+    "size":"206",
+    "type":"names",
+    "color":"#ff0000"
+  },{
+    "id":"167",
+    "label":"Hill, Russel J.",
+    "size":"170",
+    "type":"names",
+    "color":"#ff0000"
+  },{
+    "id":"167",
+    "label":"Hill, Russel J.",
+    "size":"170",
+    "type":"names",
+    "color":"#ff0000"
+  },{
+    "id":"167",
+    "label":"Hill, Russel J.",
+    "size":"170",
+    "type":"names",
+    "color":"#ff0000"
+  },
+  "id":"167",
+    "label":"Hill, Russel J.",
+    "size":"170",
+    "type":"names",
+    "color":"#ff0000"
   }],
   "edges":[{
     "id":"1",
