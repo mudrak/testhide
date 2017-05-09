@@ -48,24 +48,180 @@
     "type":"names",
     "color":"#ff0000"
   },{
-    "id":"167",
-    "label":"Hill, Russel J.",
-    "size":"170",
+    "id":"168",
+    "label":"Endrst, Jaroslav",
+    "size":"169",
     "type":"names",
     "color":"#ff0000"
   },{
-    "id":"167",
-    "label":"Hill, Russel J.",
-    "size":"170",
+    "id":"169",
+    "label":"Brezhnev, Leonid",
+    "size":"168",
     "type":"names",
     "color":"#ff0000"
-  },
-  "id":"167",
-    "label":"Hill, Russel J.",
-    "size":"170",
+  },{
+    "id":"170",
+    "label":"Zhivkov, Todor",
+    "size":"164",
     "type":"names",
     "color":"#ff0000"
-  }],
+  },{
+    "id":"171",
+    "label":"Nixon, Richard",
+    "size":"154",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+     "id":"172",
+    "label":"Pechacek, Jaroslav",
+    "size":"154",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"173",
+    "label":"Dubcek, Aleksander",
+    "size":"146",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"174",
+    "label":"Brzezinski",
+    "size":"143",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+     "id":"175",
+    "label":"Gierek, Edward",
+    "size":"140",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"176",
+    "label":"Johnson, Lyndon B.",
+    "size":"176",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"178",
+    "label":"Moczar, Mieczyslaw",
+    "size":"128",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"179",
+    "label":"van Zeeland, Paul",
+    "size":"124",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"180",
+    "label":"Kadar, Janos",
+    "size":"120",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"181",
+    "label":"Ceausescu, Nicolae",
+    "size":"120",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+   "id":"182",
+    "label":"Pomian, Andrzej",
+    "size":"115",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"183",
+    "label":"Novotny, Antonin",
+    "size":"103",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"184",
+    "label":"Kaufmann, Charles B.",
+    "size":"101",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"185",
+    "label":"Tito, Josip Broz",
+    "size":"101",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"186",
+    "label":"Brandt",
+    "size":"97",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"187",
+    "label":"Petzal, Horst",
+    "size":"94",
+    "type":"names",
+    "color":"#ff0000"
+   },{
+    "id":"3",
+    "label":"RFE, Munich",
+    "size":"500",
+    "type":"countries",
+    "color":"#4286f4"
+   },{
+    "id":"13",
+    "label":"Poland",
+    "size":"500",
+    "type":"countries",
+    "color":"#4286f4"
+   },{
+    "id":"23",
+    "label":"USSR",
+    "size":"500",
+    "type":"countries",
+    "color":"#4286f4"
+   },{
+    "id":"2",
+    "label":"USA",
+    "size":"500",
+    "type":"countries",
+    "color":"#4286f4"
+   },{
+    "id":"18",
+    "label":"Czechoslovakia",
+    "size":"500",
+    "type":"countries",
+    "color":"#4286f4"
+   },{
+    "id":"17",
+    "label":"Bulgaria",
+    "size":"500",
+    "type":"countries",
+    "color":"#4286f4"
+   },{
+    "id":"1",
+    "label":"Hungary",
+    "size":"500",
+    "type":"countries",
+    "color":"#4286f4"
+   },{
+    "id":"15",
+    "label":"Romania",
+    "size":"500",
+    "type":"countries",
+    "color":"#4286f4"
+   },{
+    "id":"26",
+    "label":"SFR Yugoslavia",
+    "size":"500",
+    "type":"countries",
+    "color":"#4286f4"
+   },{
+    "id":"66",
+    "label":"Belgium",
+    "size":"500",
+    "type":"countries",
+    "color":"#4286f4"
+   }],
   "edges":[{
     "id":"1",
     "source":"c2",
